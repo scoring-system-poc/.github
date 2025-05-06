@@ -1,12 +1,20 @@
-## Hi there 👋
+# [ FASPO ] project
 
-<!--
+This organization serves as a home for the FASPO project, which is a concept of banking application that is used
+to score the creditworthiness of certain customers. Entire codebase is made up from several microservices, that are
+located in individual repositories. All code should be used only for educational purposes as it contains completely
+made up business logic that only simulates real world banking application. The project is not intended to be used in 
+production AS-IS.
 
-**Here are some ideas to get you started:**
+## Repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [IaC](https://github.com/scoring-system-poc/faspo-iac)
+* [apps](https://github.com/scoring-system-poc/faspo-apps)
+---
+* [Request Handler](https://github.com/scoring-system-poc/faspo-request-handler)
+* [Online-Data Service](https://github.com/scoring-system-poc/faspo-online-data-service)
+* [Batch-Data Service](https://github.com/scoring-system-poc/faspo-batch-data-service)
+* [Model Service](https://github.com/scoring-system-poc/faspo-model-service)
+* [Store Service](https://github.com/scoring-system-poc/faspo-store-service)
+* [Export Service](https://github.com/scoring-system-poc/faspo-export-service)
+
